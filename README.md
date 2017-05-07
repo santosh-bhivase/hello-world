@@ -11,3 +11,5 @@ Fixed below issues:
 Completed below features:
 1. Feat 3
 
+Added new feature:
+1. Feat 4
